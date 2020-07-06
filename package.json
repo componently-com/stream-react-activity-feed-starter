@@ -6,7 +6,7 @@
   "license": "BSD-3-Clause",
   "private": true,
   "dependencies": {
-    "@babel/runtime": "^7.10.4",
+    "babel-runtime": "^6.26.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-activity-feed": "^0.10.2",
